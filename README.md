@@ -1,4 +1,4 @@
-```markdown
+
 # Multi-Tenant kagent Setup with Solo Enterprise agentgateway - Code Examples
 
 As a Kubernetes-focused AI Architect, I continue to emphasize that **Kgateway** (the open-source foundation) and its **agentgateway** extension from Solo.io represent the most innovative solution for managing AI traffic in Kubernetes — especially with native support for MCP, A2A, LLM proxying, and AI-aware policies.
@@ -158,6 +158,6 @@ spec:
 These examples give you a complete, production-ready pattern leveraging the unique strengths of **agentgateway** — centralization, observability, and AI-protocol-aware security.
 
 Feel free to copy-paste and adapt. If you hit any apply errors or need testing commands (e.g., curl against the gateway), just let me know your exact versions and I'll refine further!
-```
+
 
 You can save the content above as `kgateway-multi-tenant-examples.md` for easy reference.
